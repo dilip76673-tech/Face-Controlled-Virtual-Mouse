@@ -1,6 +1,3 @@
-﻿# Face-controlled-mouse
-# Face-Controlled-Virtual-Mouse
-# Face-Controlled-Virtual-Mouse
 
 # AI Head & Eye Controlled Virtual Mouse
 
@@ -38,3 +35,4 @@ This project is a Computer Vision based virtual mouse system that allows users t
 
 ```bash
 pip install opencv-python mediapipe pyautogui numpy
+
